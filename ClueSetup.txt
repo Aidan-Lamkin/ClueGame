@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, Living Room, L
+Room, Office, O
+Room, Observatory, T
+Room, Basketball Court, C
+Room, Pool Room, P 
+Room, Bathroom, B
+Room, Movie Theater, M
+Room, Atrium, A
+Room, Subway, S
+// other spaces on board
+Space, Unused, X
+Space, Walkway, W
+//player data
+Human, John Johnson, red, 1, 6
+Computer, Stephen Stevenson, blue, 24, 7
+Computer, Marky Mark, green, 13, 1
+Computer, Julia Johansson, yellow, 21, 23
+Computer, Gus, cyan, 7, 23
+Computer, Bethany Bucket, pink, 24, 14
+//weapon data
+Weapon, Pistol
+Weapon, Knife
+Weapon, Poison
+Weapon, Bazooka
+Weapon, Broad Sword
+Weapon, Bow
